@@ -5,5 +5,6 @@ public class HelloGit {
         System.out.println("秋田的第一杯奶茶！");
         System.out.println("真·狗粮");
         System.out.println("草莓味的狗粮");
+        System.out.println("巧克力味的");
     }
 }
